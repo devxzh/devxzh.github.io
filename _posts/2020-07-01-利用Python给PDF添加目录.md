@@ -1,20 +1,14 @@
 ---
 layout: mypost
-title: 给PDF添加目录
-categories: [Python]
+title: 利用Python给PDF添加目录
+categories: [Python,pdf]
 ---
-
-
-
-### 利用 Python 给PDF 添加目录
 
 ##### 安装`pymupdf`模块
 
 ```
 pip install pymupdf
 ```
-
-
 
 ##### 编写`add.py`
 
@@ -127,10 +121,7 @@ if '.txt' in txtName:
 else:
     print("catalog file must be .txt !")
     exit()
-
 ```
-
-
 
 ##### 编写目录文件`list.txt`
 
@@ -186,8 +177,6 @@ else:
 章 正文结束227
 章 参考文献228
 ```
-
-
 
 ##### 使用方法
 
