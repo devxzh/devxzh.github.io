@@ -3,7 +3,7 @@ layout: mypost
 title: 友情链接
 ---
 
-如需友链请发邮件至devxzh@qq.com，我看到后会添加上的，本站的友链信息如下
+如需友链可发邮件至devxzh@qq.com，本站的友链信息如下
 
 ```
 名称：{{ site.title }}
