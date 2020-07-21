@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: 利用Python给PDF添加目录
-categories: [Python,pdf]
+categories: [Python,PDF]
 ---
 
 ##### 安装`pymupdf`模块
