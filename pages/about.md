@@ -3,7 +3,7 @@ layout: mypost
 title: 关于我
 ---
 
-> 你好呀 陌生人，欢迎访问 devxzh
+> 你好呀 朋友，欢迎访问 devxzh
 
 ### 自我介绍
 
